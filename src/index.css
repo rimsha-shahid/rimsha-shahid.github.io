@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #151b22;
+  /* color: #cad1d9; */
+  color: #f0f6fc;
+}
+/* background :#2a2a2a */
+/* headline :#e9e9e9 */
+/* subheadline :#a0a0a0 */
+
+/* GIT COLORS */
+
+/* background :##151b22 */
+/* headline :#cad1d9 */
+/* subheadline :#8a939d */
+/* cards :#151b22 */
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace; 
+} */
+.app {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  border: 1px white;
+  padding: 50px 100px;
+}
